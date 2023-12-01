@@ -1,13 +1,12 @@
 #include <frt/frt.hpp>
+#include "move.hpp"
+#include "modules.hpp"
+#define def_func [](double x, double y){}
+#define P for(;;)
 
+using namespace FRT;
 using namespace FRT::unit_literals;
 
-// write your own functions here
+int main() {
 
-int main () 
-{
-    std::ios_base::sync_with_stdio(false);
-
-    // write driver code here
-    FRT::Logger::info("Hello World!");
 }

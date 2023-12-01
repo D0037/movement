@@ -115,7 +115,9 @@
         "filesystem": "cpp",
         "*.def": "cpp",
         "hash_map": "cpp",
-        "strstream": "cpp"
+        "strstream": "cpp",
+        "format": "cpp",
+        "stdfloat": "cpp"
     },
     "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
